@@ -1,1 +1,0 @@
-# Alexey | React Frontend Developer
